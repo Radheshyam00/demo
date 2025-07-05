@@ -1,5 +1,6 @@
 streamlit
 numpy
+opencv-python-headless
 opencv-python
 pillow
 piexif
