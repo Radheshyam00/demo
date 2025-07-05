@@ -1,11 +1,9 @@
 streamlit
 numpy
 opencv-python-headless
-opencv-python
-pillow
+Pillow
 piexif
-io
 scikit-learn
 matplotlib
-hashlib
-datetime
+plotly
+
