@@ -1,0 +1,11 @@
+streamlit
+numpy
+opencv-python-headless
+opencv-python
+pillow
+piexif
+io
+scikit-learn
+matplotlib
+hashlib
+datetime
