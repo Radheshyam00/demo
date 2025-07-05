@@ -1,10 +1,10 @@
 streamlit
 numpy
-cv2
+opencv-python
 pillow
 piexif
 io
-sklearn
+scikit-learn
 matplotlib
 hashlib
 datetime
