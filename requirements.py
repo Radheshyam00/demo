@@ -1,0 +1,10 @@
+streamlit
+numpy
+cv2
+pillow
+piexif
+io
+sklearn
+matplotlib
+hashlib
+datetime
